@@ -7,4 +7,4 @@ The data below was collected in the previous month and the results up to the cur
 ## Objective:
 Build a model to predict whether customers are likely to churn in the next month or not based on the data below.
 
-![image](https://github.com/BinXoai/Machine_Learning/assets/142928328/7cef734c-97f6-425e-aa8b-0fcfde1d3d3a)
+![image](https://github.com/BinXoai/Machine_Learning/assets/142928328/fce49529-f4f6-45fa-8601-24ba333d106b)
