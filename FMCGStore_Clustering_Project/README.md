@@ -7,3 +7,5 @@ You are owing a supermarket mall and through membership cards, you have some bas
 ## Objective:
 You want to understand the customers like who are the target customers so that the sense can be given to marketing team and plan the strategy accordingly.  
 Complete the analysis by analyzing the characteristics of the clusters and propose a plan for budget allocation for an email marketing campaign with a budget of 500,000 USD over a period of 3 months.
+
+![image](https://github.com/tmquan11032003/Machine_Learning/assets/142928328/9dd1b257-2a46-4b21-b242-19880b370983)
