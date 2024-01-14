@@ -1,5 +1,8 @@
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 
+![image](https://github.com/tmquan11032003/Machine_Learning/assets/142928328/3b6ccb8f-4ac2-4db8-b519-867c70477397)
+
+
 # **About Dataset**
 
 ## **Context**
